@@ -9,7 +9,7 @@ Additionally, if you enjoy science you might subscribe to my Youtube Channel: Bi
 
 
 
-[<img align="left" alt="Bio100" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" style="padding-right:10px;" />][youtube]
+[<img align="left" alt="Bio100" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" style="padding-right:10px;" />][https://www.youtube.com/]
 
 
 
