@@ -5,6 +5,13 @@ projects in which I have been working on. If you want to contact me for a collab
 Additionally, if you enjoy science you might subscribe to my Youtube Channel: Bio100. </div>
 
 
+## Connect with me:
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[#FF0000].svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[#0A66C2].svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[#1DA1F2].svg" />
+
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
