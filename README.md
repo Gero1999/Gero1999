@@ -2,7 +2,7 @@
 
 <div style="text-align: justify"> My name is Gerardo and I am a bioinformatics student interested in Python and R. Check my code repository to find the different 
 projects in which I have been working on. If you want to contact me for a collaboration do not hesitate to text me to my email. 
-Additionally, if you enjoy science you might subscribe to my Youtube Channel (BIO100): </div> 
+Additionally, if you enjoy science you might subscribe to my Youtube Channel</div> 
 
 
 
