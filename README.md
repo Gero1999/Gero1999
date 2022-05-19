@@ -2,7 +2,7 @@
 
 <div style="text-align: justify"> My name is Gerardo and I am a bioinformatics student interested in Python and R. Check my code repository to find the different 
 projects in which I have been working on. If you want to contact me for a collaboration do not hesitate to text me to my email. 
-Additionally, if you enjoy science you might subscribe to my Youtube Channel: Bio100. </div>
+Additionally, if you enjoy science you might subscribe to my Youtube Channel: [Bio100](https://www.youtube.com/). </div>
 
 
 ## Connect with me:
@@ -15,18 +15,6 @@ Additionally, if you enjoy science you might subscribe to my Youtube Channel: Bi
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" style="padding-right:10px;">](https://twitter.com/) 
 
-
-
-
-[./img/globe-light.svg](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg))](https://github.com/Gero1999)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-
-
-
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[#0A66C2].svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[#1DA1F2].svg" />
 
 
 ### Languages and Tools:
