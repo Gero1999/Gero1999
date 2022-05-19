@@ -7,7 +7,7 @@ Additionally, if you enjoy science you might subscribe to my Youtube Channel: Bi
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 <!--
 **Gero1999/Gero1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
