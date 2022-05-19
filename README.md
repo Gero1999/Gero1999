@@ -18,7 +18,7 @@ Additionally, if you enjoy science you might subscribe to my Youtube Channel (BI
 
 
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
