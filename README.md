@@ -6,6 +6,10 @@ Additionally, if you enjoy science you might subscribe to my Youtube Channel: Bi
 
 
 ## Connect with me:
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+
+
+
 [![website](./img/youtube-light.svg)](https://github.com/Gero1999)
 [![website](./img/youtube-dark.svg)](https://github.com/Gero1999)
 
