@@ -4,7 +4,7 @@
 projects in which I have been working on. If you want to contact me for a collaboration do not hesitate to text me to my email. 
 Additionally, if you enjoy science you might subscribe to my Youtube Channel (BIO100): </div> 
 
-<br/>
+
 
 ## Connect with me:
 
@@ -14,6 +14,7 @@ Additionally, if you enjoy science you might subscribe to my Youtube Channel (BI
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" style="padding-right:10px;">](https://twitter.com/) 
 
+<br/>
 <br/>
 
 ## Languages and Tools:
