@@ -10,7 +10,7 @@ Additionally, if you enjoy science you might subscribe to my Youtube Channel</di
 
 [<img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" style="padding-right:10px;">](https://www.youtube.com/)  
 
-[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" style="padding-right:10px;">](gerardo.jrac@gmail.com)  
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" style="padding-right:10px;">](mailto:gerardo.jrac@gmail.com)  
 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" style="padding-right:10px;">](https://twitter.com/) 
 
