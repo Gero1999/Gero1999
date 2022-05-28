@@ -5,16 +5,15 @@ projects in which I have been working on. If you want to contact me for a collab
 Additionally, if you enjoy science you might subscribe to my Youtube Channel!</div> 
 
 
-
 ## Connect with me:
 
-[<img align="left" alt="Youtube" width="22px" src="https://www.youtube.com/channel/UCfF_6XhQW_lJDpISf1BX68A" style="padding-right:10px;">](https://www.youtube.com/channel/UCfF_6XhQW_lJDpISf1BX68A)  
+[<img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" style="padding-right:10px;">](https://www.youtube.com/channel/UCfF_6XhQW_lJDpISf1BX68A)  
 
 [<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" style="padding-right:10px;">](mailto:gerardo.jrac@gmail.com)  
 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" style="padding-right:10px;">](https://twitter.com/) 
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://www.linkedin.com/in/gerardo-ra/" style="padding-right:10px;">](https://www.linkedin.com/in/gerardo-ra/) 
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" style="padding-right:10px;">](https://www.linkedin.com/in/gerardo-ra/) 
 
 <br/>
 
