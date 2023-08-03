@@ -3,7 +3,6 @@
 <div style="text-align: justify"> Welcome to my Github repository. My name is Gerardo and I am a bioinformatician interested in Python and R. Check my code repository to find the different 
 projects in which I have been working on. If you want to contact me for a collaboration do not hesitate to text me to my email. 
 Additionally, if you enjoy science you might subscribe to my Youtube Channel or read my blog. I am very open to any suggestion or advice!
-On the other hand, if what you want is to check my own developed programs, you can just find them at my Code repository. </div> 
 
 
 ## Connect with me:
