@@ -1,11 +1,7 @@
 ![Header](./github-header-image.png)
 
 
-<p style="text-align: justify;">
-  Welcome to my Github repository. My name is Gerardo and I am a bioinformatician interested in Python and R. In my code repository you can find the different projects in which I have been working on. If you want to contact me for a collaboration, or anything at all, do not hesitate to text me to my email. Additionally, if you enjoy science you might subscribe to my Youtube Channel 
-"[Bio_100]""(https://www.youtube.com/@Bio_100)" . I am very open to any suggestion or advice! 
-</p>
-
+<p style="text-align: justify;"> Welcome to my Github repository. My name is Gerardo and I am a bioinformatician interested in Python and R. In my code repository you can find the different projects in which I have been working on. If you want to contact me for a collaboration, or anything at all, do not hesitate to text me to my email. Additionally, if you enjoy science you may subscribe to my Youtube Channel: <a href="https://www.youtube.com/@Bio_100">@Bio_100</a>. I am very open to any suggestion or advice! </p>
 
 ## Connect with me:
 
