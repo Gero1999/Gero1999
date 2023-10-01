@@ -3,6 +3,14 @@
 
 <p style="text-align: justify;"> Welcome to my Github repository. My name is Gerardo and I am a bioinformatician interested in Python and R. In my code repository you can find the different projects in which I have been working on. If you want to contact me for a collaboration, or anything at all, do not hesitate to text me to my email. Additionally, if you enjoy science you may subscribe to my Youtube Channel (<a href="https://www.youtube.com/@Bio_100">@Bio_100</a>) or visit my statistics blog (<a href="https://gero1999.github.io/en/">P-Hackers</a>). I am very open to any suggestion or advice! </p>
 
+
+## Stats 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gero1999&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gero1999&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ## Connect with me:
 
 [<img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" style="padding-right:10px;">](https://www.youtube.com/channel/UCfF_6XhQW_lJDpISf1BX68A)  
