@@ -1,7 +1,31 @@
 ![Header](./github-header-image.png)
 
 
-<p style="text-align: justify;"> Welcome to my Github repository. My name is Gerardo and I am a bioinformatician interested in Python and R. In my code repository you can find the different projects in which I have been working on. If you want to contact me for a collaboration, or anything at all, do not hesitate to text me to my email. Additionally, if you enjoy science you may subscribe to my Youtube Channel (<a href="https://www.youtube.com/@Bio_100">@Bio_100</a>) or visit my statistics blog (<a href="https://gero1999.github.io/en/">P-Hackers</a>). I am very open to any suggestion or advice! </p>
+<p style="text-align: justify;"> Welcome to my Github repository. My name is Gerardo and I am a bioinformatician interested in Python and R. Here you can:
+
+:page_with_curl: Check an organized list of my public programming projects in my [Code-repo](https://github.com/Gero1999/code)  
+
+<details><summary> View a list of my interactive Web Apps and test them  </summary> 
+
+##### Streamlit Apps
+* [Clone trigger](streamlit/clone_trigger). Given a DNA reference sequence and a DNA intended to be clone it suggests top 20 list of forward and reverse primers that can be used as well as the restriction enzymes. 
+* [Prot-Profiler](streamlit/prot-profiler-app). Based on a set of protein sequences it produces a HMM-profile and a MSA matrix
+* [Resume](streamlit/resume). My professional portfolio detailing my experience, availability and different contributions
+
+##### Shiny Apps
+* [Texas Cheater](shinyR/texas-cheater) A Texas Poker simulator capable to predict your probabilities to win a game based on your introduced circumstances.
+* [Pairwise Alignment](shinyR/pairwise_alignment). Assess the alignemnt of two sequences thorugh dinamyc programming (Watermann algorithm).
+
+
+
+</details>
+
+:desktop_computer: Read my statistics blog web page [P-Hackers](https://gero1999.github.io/en/)
+
+:movie_camera: Enjoy my science animated videos on YouTube: [@Bio_100](https://www.youtube.com/@Bio_100)
+
+:speech_balloon: Text me for any collaboration or question you have!
+
 
 
 ## Stats 
