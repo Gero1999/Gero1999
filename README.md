@@ -1,11 +1,24 @@
 ![Header](./github-header-image.png)
 
 
-<p style="text-align: justify;"> Welcome to my Github repository. My name is Gerardo and I am a bioinformatician interested in Python and R. Here you can:
 
-:page_with_curl: Check an organized list of my public programming projects in my [Code-repo](https://github.com/Gero1999/code)  
 
-<details><summary> View a list of my interactive Web Apps and test them  </summary> 
+Welcome to my GitHub profile, where my expertise in `R` and `Python` shines. Here, you can:
+
+## Explore My Work
+
+- :page_with_curl: Check out an organized list of my public programming projects in my [code repository](https://github.com/Gero1999/code).
+
+- :desktop_computer: Read my insightful statistics blog at [P-Hackers](https://Gero1999.github.io/en/) 
+
+- :movie_camera: Enjoy my engaging science animated videos on YouTube: [@Bio100](https://www.youtube.com/@Bio_100)   
+     
+
+    
+## Test my Creations
+<details><summary> 📦 Install and run my packages, and don't hesitate to give feedback </summary></details>
+
+<details><summary> 🎮 Play with my Web Apps, without any need of installation </summary> 
 
 ##### Streamlit Apps
 * [Clone trigger](streamlit/clone_trigger). Given a DNA reference sequence and a DNA intended to be clone it suggests top 20 list of forward and reverse primers that can be used as well as the restriction enzymes. 
@@ -16,21 +29,13 @@
 * [Texas Cheater](shinyR/texas-cheater) A Texas Poker simulator capable to predict your probabilities to win a game based on your introduced circumstances.
 * [Pairwise Alignment](shinyR/pairwise_alignment). Assess the alignemnt of two sequences thorugh dinamyc programming (Watermann algorithm).
 
+</details> 
+
+### 
+###  
 
 
-</details>
-
-:desktop_computer: Read my statistics blog web page [P-Hackers](https://gero1999.github.io/en/)
-
-:movie_camera: Enjoy my science animated videos on YouTube: [@Bio_100](https://www.youtube.com/@Bio_100)
-
-:speech_balloon: Text me for any collaboration or question you have!
-
-
-
-
-
-## Connect with me:
+## Get in Touch
 
 [<img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" style="padding-right:10px;">](https://www.youtube.com/channel/UCfF_6XhQW_lJDpISf1BX68A)  
 
@@ -41,6 +46,7 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" style="padding-right:10px;">](https://www.linkedin.com/in/gerardo-ra/) 
 
 <br/>
+
 
 ## Languages and Tools:
 
@@ -60,22 +66,3 @@ style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-
-
-
-
-
-<!--
-**Gero1999/Gero1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
