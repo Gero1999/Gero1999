@@ -35,7 +35,7 @@ Welcome to my GitHub profile, where my passion for `R` and `Python` shines. Here
 ###  
 
 
-## Get in Touch
+## Get in Touch and Team up!
 
      
 [<img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" style="padding-right:10px;">](https://www.youtube.com/channel/UCfF_6XhQW_lJDpISf1BX68A)  
@@ -45,11 +45,6 @@ Welcome to my GitHub profile, where my passion for `R` and `Python` shines. Here
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" style="padding-right:10px;">](https://twitter.com/) 
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" style="padding-right:10px;">](https://www.linkedin.com/in/gerardo-ra/) 
-
-
-<br/>
-
-## Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="padding-right:10px;" />
 
@@ -62,8 +57,13 @@ Welcome to my GitHub profile, where my passion for `R` and `Python` shines. Here
 <img align="left" alt="Latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"
 style="padding-right:10px;" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
+<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
+
+
+<!--
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+-->
