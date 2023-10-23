@@ -3,22 +3,22 @@
 
 
 
-Welcome to my GitHub profile, where my expertise in `R` and `Python` shines. Here, you can:
+Welcome to my GitHub profile, where my passion for `R` and `Python` shines. Here, you can:
 
 ## Explore My Work
 
-- 📃 Check out an organized list of my public programming projects in my [code repository](https://github.com/Gero1999/code).
+ &nbsp; &nbsp; 📃 &nbsp; Check out an organized list of my public programming projects in my [code repository](https://github.com/Gero1999/code).
 
-- 🖥️ Read my insightful statistics blog at [P-Hackers](https://Gero1999.github.io/en/) 
+ &nbsp; &nbsp; 🖥️ &nbsp; Read my insightful statistics blog at [P-Hackers](https://Gero1999.github.io/en/) 
 
-- 🎥 Enjoy my engaging science animated videos on YouTube: [@Bio100](https://www.youtube.com/@Bio_100)   
+ &nbsp; &nbsp; 🎥 &nbsp; Enjoy my engaging science animated videos on YouTube: [@Bio100](https://www.youtube.com/@Bio_100)   
      
 
     
 ## Test my Creations
-<details><summary> &#8226&nbsp 📦 Install and run my packages, and don't hesitate to give feedback </summary></details>
+<details><summary> 📦 &nbsp Install and run my packages, and don't hesitate to give feedback </summary></details>
 
-<details><summary> &#8226&nbsp 🎮 Play with my Web Apps, without any need of installation </summary> 
+<details><summary> 🎮 &nbsp Play with my Web Apps, without any need of installation </summary> 
 
 ##### Streamlit Apps
 * [Clone trigger](streamlit/clone_trigger). Given a DNA reference sequence and a DNA intended to be clone it suggests top 20 list of forward and reverse primers that can be used as well as the restriction enzymes. 
