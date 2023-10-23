@@ -16,7 +16,12 @@ Welcome to my GitHub profile, where my passion for `R` and `Python` shines. Here
 
     
 ## Test my Creations
-<details><summary> 📦 &nbsp Install and run my packages, and don't hesitate to give feedback </summary></details>
+<details><summary> 📦 &nbsp Install and run my packages, and don't hesitate to give feedback </summary>
+
+#### Data extraction and standarization 🔃
+* [getGWAS](getGWAS). Can be used to query, extract and standarize summary statistics files from GWAS catalog directly into R.
+
+</details>
 
 <details><summary> 🎮 &nbsp Play with my Web Apps, without any need of installation </summary> 
 
