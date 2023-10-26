@@ -31,7 +31,7 @@ Welcome to my GitHub profile, where my passion for `R` and `Python` shines. Here
 * [Resume](streamlit/resume). My professional portfolio detailing my experience, availability and different contributions
 
 ##### Shiny Apps
-* [Texas Cheater](shinyR/texas-cheater) A Texas Poker simulator capable to predict your probabilities to win a game based on your introduced circumstances.
+* [Texas Cheater](shinyR/texas-cheater) A Texas Poker simulator capable to predict your probabilities to win a game based on your circumstances.
 * [Pairwise Alignment](shinyR/pairwise_alignment). Assess the alignemnt of two sequences thorugh dinamyc programming (Watermann algorithm).
 
 </details> 
