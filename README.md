@@ -31,6 +31,7 @@ Welcome to my GitHub profile, where my passion for `R` and `Python` shines. Here
 * [Resume](https://github.com/Gero1999/code/tree/main/streamlit/resume). My professional portfolio detailing my experience, availability and different contributions
 
 ##### Shiny Apps
+* [PokeGuess](https://github.com/Gero1999/code/tree/main/shinyR/PokeGuess) An app game where you need to guess the Pokemon
 * [Texas Cheater](https://github.com/Gero1999/code/tree/main/shinyR/texas-cheater) A Texas Poker simulator capable to predict your probabilities to win a game based on your circumstances.
 * [Pairwise Alignment](https://github.com/Gero1999/code/tree/main/shinyR/pairwise_alignment). Assess the alignemnt of two sequences thorugh dinamyc programming (Watermann algorithm).
 
