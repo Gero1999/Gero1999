@@ -26,7 +26,7 @@ Welcome to my GitHub profile, where my passion for `R` and `Python` shines. Here
 <details><summary> 🎮 &nbsp Play with my Web Apps, without any need of installation </summary> 
 
 ##### Streamlit Apps
-* [Clone trigger](https://github.com/Gero1999/code/tree/main/streamlit/clone_trigger). Given a DNA reference sequence and a DNA intended to be clone it suggests top 20 list of forward and reverse primers that can be used as well as the restriction enzymes. 
+* [Clone trigger](https://github.com/Gero1999/code/tree/main/streamlit/clone_trigger). Given a DNA reference sequence and a DNA clone it suggests a top 20 list of primers to use as well as the restriction enzymes. 
 * [Prot-Profiler](https://github.com/Gero1999/code/tree/main/streamlit/prot-profiler-app). Based on a set of protein sequences it produces a HMM-profile and a MSA matrix
 * [Resume](https://github.com/Gero1999/code/tree/main/streamlit/resume). My professional portfolio detailing my experience, availability and different contributions
 
