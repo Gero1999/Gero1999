@@ -26,14 +26,14 @@ Welcome to my GitHub profile, where my passion for `R` and `Python` shines. Here
 <details><summary> 🎮 &nbsp Play with my Web Apps, without any need of installation </summary> 
 
 ##### Streamlit Apps
-* [Clone trigger](https://github.com/Gero1999/code/tree/main/streamlit/clone_trigger). Given a DNA reference and a DNA clone it suggests a top 20 list of primers and restriction enzymes. 
+* [Clone trigger](https://github.com/Gero1999/code/tree/main/streamlit/clone_trigger). Given a DNA reference and a DNA clone it suggests a top 20 list of primers and restriction enzymes
 * [Prot-Profiler](https://github.com/Gero1999/code/tree/main/streamlit/prot-profiler-app). Based on a set of protein sequences it produces a HMM-profile and a MSA matrix
 * [Resume](https://github.com/Gero1999/code/tree/main/streamlit/resume). My professional portfolio detailing my experience, availability and different contributions
 
 ##### Shiny Apps
 * [PokeGuess](https://github.com/Gero1999/code/tree/main/shinyR/PokeGuess). An app game where you need to guess the Pokemon
-* [Texas Cheater](https://github.com/Gero1999/code/tree/main/shinyR/texas-cheater). A Texas Poker simulator capable to predict your probabilities to win a game based on your circumstances.
-* [Pairwise Alignment](https://github.com/Gero1999/code/tree/main/shinyR/pairwise_alignment). Assess the alignemnt of two sequences thorugh dinamyc programming (Watermann algorithm).
+* [Texas Cheater](https://github.com/Gero1999/code/tree/main/shinyR/texas-cheater). A Texas Poker simulator capable to predict your winning chances
+* [Pairwise Alignment](https://github.com/Gero1999/code/tree/main/shinyR/pairwise_alignment). Assess the alignemnt of two sequences thorugh dinamyc programming
 
 </details> 
 
