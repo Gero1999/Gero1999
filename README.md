@@ -19,8 +19,8 @@ Welcome to my GitHub profile, where my passion for `R` and `Python` shines. Here
 <details><summary> 📦 &nbsp Install and run my packages, and don't hesitate to give feedback </summary>
 
 #### Data extraction and standarization 🔃
-* [getGWAS](getGWAS). Can be used to query, extract and standarize summary statistics files from GWAS catalog directly into R.
-
+* [getGWAS](getGWAS). Query, standarize and explores summary statistics files from GWAS catalog.
+* [getArray](getArray). Query, standarize and explores MA data from ArrayExpress
 </details>
 
 <details><summary> 🎮 &nbsp Play with my Web Apps, without any need of installation </summary> 
