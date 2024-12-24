@@ -7,7 +7,7 @@ Welcome to my GitHub profile, where my passion for `R` and `Python` shines. Here
 
 ## Explore My Work
 
- &nbsp; &nbsp; 📃 &nbsp; Check out an organized list of my public programming projects in my [code repository](https://github.com/Gero1999/code).
+ &nbsp; &nbsp; 📃 &nbsp; Check out an organized list of my public programming projects in my [code repository](https://github.com/Gero1999/code)
 
  &nbsp; &nbsp; 🖥️ &nbsp; Read my insightful statistics blog at [P-Hackers](https://Gero1999.github.io/en/) 
 
@@ -19,7 +19,7 @@ Welcome to my GitHub profile, where my passion for `R` and `Python` shines. Here
 <details><summary> 📦 &nbsp Install and run my packages, and don't hesitate to give feedback </summary>
 
 #### Data extraction and standarization 🔃
-* [getGWAS](getGWAS). Query, standarize and explores summary statistics files from GWAS catalog.
+* [getGWAS](getGWAS). Query, standarize and explores summary statistics files from GWAS catalog
 * [getArray](getArray). Query, standarize and explores MA data from ArrayExpress
 </details>
 
