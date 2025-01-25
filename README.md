@@ -1,5 +1,5 @@
 
-![Header](./gero-readme-up.gif)
+![Header](./github-header-image.png)
 
 
 
