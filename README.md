@@ -16,7 +16,16 @@ Welcome to my GitHub profile, where my passion for `R` and `Python` shines. Here
 
     
 ## Test my Creations
-<details><summary> 📦 &nbsp Install and run my packages, and don't hesitate to give feedback </summary>
+
+<details><summary> 🌐 &nbsp Discover my open-source work, don't forget to leave a star </summary>
+
+#### a.. ✍️
+* [aNCA](https://github.com/pharmaverse/aNCA). R Shiny App to run NCA on clinical and preclinical data
+* [PKNCA](https://github.com/billdenney/pknca). R package to perform Non-Compartmental Analyis
+</details>
+
+
+<details><summary> 📦 &nbsp Install and run my own packages, and don't hesitate to give feedback </summary>
 
 #### Data extraction and standarization 🔃
 * [getGWAS](getGWAS). Query, standarize and explores summary statistics files from GWAS catalog
