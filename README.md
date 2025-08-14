@@ -19,9 +19,9 @@ Welcome to my GitHub profile, where my passion for `R` and `Python` shines. Here
 
 <details><summary> 🌐 &nbsp Discover my open-source work, don't forget to leave a star </summary>
 
-#### a.. ✍️
+##### Authorship ✍️
 * [aNCA](https://github.com/pharmaverse/aNCA). R Shiny App to run NCA on clinical and preclinical data
-* [PKNCA](https://github.com/billdenney/pknca). R package to perform Non-Compartmental Analyis
+* [PKNCA](https://github.com/humanpred/pknca). R package to perform PK Non-Compartmental Analyis
 </details>
 
 
