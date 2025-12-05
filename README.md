@@ -2,35 +2,34 @@
 ![Header](./github-header-image.png)
 
 
-
 Welcome to my GitHub profile, where my passion for `R` and `Python` shines. Here, you can:
+  
 
 ## Explore My Work
 
- &nbsp; &nbsp; 📃 &nbsp; Check out an organized list of my public programming projects in my [code repository](https://github.com/Gero1999/code)
+<details><summary>  🌐 &nbsp Discover my open-source work, don't forget to leave a star </summary>
 
- &nbsp; &nbsp; 🖥️ &nbsp; Read my insightful statistics blog at [P-Hackers](https://Gero1999.github.io/en/) 
-
- &nbsp; &nbsp; 🎥 &nbsp; Enjoy my engaging science animated videos on YouTube: [@Bio100](https://www.youtube.com/@Bio_100)   
-     
-
-    
-## Test my Creations
-
-<details><summary> 🌐 &nbsp Discover my open-source work, don't forget to leave a star </summary>
-
-##### Authorship ✍️
-* [aNCA](https://github.com/pharmaverse/aNCA). R Shiny App to run NCA on clinical and preclinical data
+##### R packages with authorship ✍️
+* [aNCA](https://github.com/pharmaverse/aNCA). R package and Shiny App to run NCA on clinical and preclinical data
+* [sAMRat](https://github.com/Gero1999/sAMRat). R package and Shiny App to perform AntiMicrobial Resistance Analysis
 * [PKNCA](https://github.com/humanpred/pknca). R package to perform PK Non-Compartmental Analyis
-</details>
-
-
-<details><summary> 📦 &nbsp Install and run my own packages, and don't hesitate to give feedback </summary>
-
-#### Data extraction and standarization 🔃
 * [getGWAS](getGWAS). Query, standarize and explores summary statistics files from GWAS catalog
 * [getArray](getArray). Query, standarize and explores MA data from ArrayExpress
+
+##### Other projects with interest ⭐ :
+* [Code repository list](https://github.com/Gero1999/code). Check out an organized list of my public programming projects
+
 </details>
+
+
+<details><summary> 📢 &nbsp Check my science communication presence (blog, videos & media) </summary>
+
+- Read my statistics blog at [P-Hackers](https://Gero1999.github.io/en/) 🖥️ 
+
+- Watch my science animated videos on YouTube: [@Bio100](https://www.youtube.com/@Bio_100) 🎥
+
+</details>
+
 
 <details><summary> 🎮 &nbsp Play with my Web Apps, without any need of installation </summary> 
 
@@ -46,13 +45,14 @@ Welcome to my GitHub profile, where my passion for `R` and `Python` shines. Here
 
 </details> 
 
-### 
-###  
+
+
+
+
 
 
 ## Get in Touch and Team up!
 
-     
 [<img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" style="padding-right:10px;">](https://www.youtube.com/channel/UCfF_6XhQW_lJDpISf1BX68A)  
 
 [<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" style="padding-right:10px;">](mailto:gerardo.jrac@gmail.com)  
