@@ -12,6 +12,8 @@ Welcome to my GitHub profile, where my passion for `R` and `Python` shines. Here
 ##### R packages with authorship ✍️
 * [aNCA](https://github.com/pharmaverse/aNCA). R package and Shiny App to run NCA on clinical and preclinical data
 * [sAMRat](https://github.com/Gero1999/sAMRat). R package and Shiny App to perform AntiMicrobial Resistance Analysis
+* [pharmaverseadam](https://github.com/pharmaverse/pharmaverseadam). R package providing test ADaM data examples.
+* [pharmaversesdtm](https://github.com/pharmaverse/pharmaversesdtm). R package providing test SDTM data examples.
 * [PKNCA](https://github.com/humanpred/pknca). R package to perform PK Non-Compartmental Analyis
 * [getGWAS](getGWAS). Query, standarize and explores summary statistics files from GWAS catalog
 * [getArray](getArray). Query, standarize and explores MA data from ArrayExpress
