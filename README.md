@@ -76,7 +76,7 @@ style="padding-right:10px;" />
 
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="AmazonWeb" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="AmazonWeb" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="TF" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
 
